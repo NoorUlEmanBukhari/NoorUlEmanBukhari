@@ -46,11 +46,7 @@ I specialize in **machine learning**, **deep learning**, and **data engineering*
 - Computer Vision advancements (YOLOv8, Segment Anything)
 - Deployment with Docker & CI/CD pipelines
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoorUlEmanBukhari&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
 
 ### 📫 Connect with Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/noorulemanbukhari/)
+- 🌐 [LinkedIn](www.linkedin.com/in/syeda-noor-ul-eman-bukhari-909247288)
 - 📬 Email:emansyeda85@gmail.com
