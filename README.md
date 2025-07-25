@@ -48,5 +48,5 @@ I specialize in **machine learning**, **deep learning**, and **data engineering*
 
 
 ### 📫 Connect with Me
-- 🌐 [LinkedIn](www.linkedin.com/in/syeda-noor-ul-eman-bukhari-909247288)
+- 🌐 LinkedIn: www.linkedin.com/in/syeda-noor-ul-eman-bukhari-909247288
 - 📬 Email:emansyeda85@gmail.com
