@@ -20,7 +20,7 @@ I specialize in **machine learning**, **deep learning**, and **data engineering*
 - 🏠 **House Sale Price Prediction**  
   Used regression models to predict real estate prices based on features like location, size, and past sales trends.
 
-- 📈 **Stock Price Prediction**  
+- 📈 **Apple Stock Price Prediction**  
   Implemented time series forecasting using **LSTM** and other models to predict short-term stock trends. Analyzed single-step and multi-step performance to refine strategy.
 
 - 🧬 **Medical Image Analysis**  
