@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Noor Ul Eman Bukhari
+##  I'm Noor Ul Eman Bukhari
 
-### 👩‍💻 About Me
+### About Me
 I'm a Data Science graduate passionate about solving real-world problems using data-driven techniques.  
 I specialize in **machine learning**, **deep learning**, and **data engineering**, 
 
